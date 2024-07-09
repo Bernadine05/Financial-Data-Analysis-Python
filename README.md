@@ -16,7 +16,7 @@ This analysis seeks to answer the questions below:
 
 ## Methodology
 
-- Python - conducted a more detailed analysis in Python and created visualisations showcasing the areas the most influenced and informed investments
+- Python - conducted a more detailed analysis in Python and created visualisations showcasing the areas the most influenced and informed investments. Used Kaggle datasets for my analysis.
 
 ## Skills
 
